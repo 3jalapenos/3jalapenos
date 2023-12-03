@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @3jalapenos
+- 👋 Hi, I’m @TulipEra
 - 👀 I’m interested in UX and App design. 
-- 🌱 I’m currently learning UX with Google and Phyton.
-- 💞️ I’m looking to collaborate on  Making  1- booking app 2- Word game
+- 🌱 I’m currently learning Phyton.
+- 💞️ I’m looking to collaborate on   1- schedule booking app 2- word game
 - 📫 How to reach me:  m.carbon1010@gmail.com
 
 <!---
